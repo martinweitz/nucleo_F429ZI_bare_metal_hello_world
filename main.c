@@ -15,9 +15,6 @@
 
 
 
-uint32_t martin = 44;
-uint32_t steffi = 43;
-uint32_t leonie = 9;
 
 uint32_t cnt = 0;
 
